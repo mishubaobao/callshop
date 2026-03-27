@@ -21,4 +21,4 @@
 ️️❇️可购买安装有定制ROM的手机(推荐💪)，安卓16系统，无需root，不用安装magisk等敏感软件。<br>
 ️️❇️也可自备谷歌手机(推荐6以上)+magisk，当做模块安装<br>
 ️️❇️使用交流可加WeChat<br>
-<img src="https://raw.githubusercontent.com/joyou-io/callshop/refs/heads/main/wechat.png">
+<img style="width:150px;height:150px" src="https://raw.githubusercontent.com/joyou-io/callshop/refs/heads/main/wechat.png">
